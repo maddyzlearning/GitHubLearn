@@ -3,3 +3,4 @@ another test file by Developer 1
 SOme changes by Developer 2
 
 Some more changes by Developer 1
+changes
